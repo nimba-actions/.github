@@ -1,4 +1,4 @@
-# Cumulus Suite GitHub Actions (nimba)
+# Salesforce GitHub Actions `CumulusCi`
 
 This repository serves as an effort to preserve and enhance public access to the Cumulus Suite GitHub Actions framework. It was created to ensure continued availability of these capabilities while introducing complementary workflows, upgrades, and improvements.
 
